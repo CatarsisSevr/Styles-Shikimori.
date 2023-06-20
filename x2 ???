@@ -1,0 +1,680 @@
+/* AUTO=page_background_color */ .l-page { background-color: rgba(28, 28, 28, 0.8); } .b-ajax:before { background: rgba(252, 252, 252, 0.75); }
+/* AUTO=body_background */ body { background: url(https://pp.userapi.com/c841632/v841632501/2c8a7/vmnGyJelGKk.jpg) no-repeat fixed;
+background-size: cover;
+}
+
+.b-shiki_editor.previewed .body .preview { background: rgba(48, 48, 48, 0.5);}
+.b-catalog_entry-tooltip .inner .line .value { color: rgba(255, 255, 255, 1);}
+
+.b-catalog_entry-tooltip .inner .text { color: rgba(255, 255, 255, 1);}
+
+.b-list li { color: rgba(255, 255, 255, 1);}
+
+.b-stats_bar.anime .bar .first {
+background: #d9d9d9;}
+
+.b-stats_bar.anime .bar .second {
+background: #b3b3b3;}
+
+.b-stats_bar.manga .bar .first {
+background: #d9d9d9;}
+
+.b-stats_bar.manga .bar .second {
+background: #b3b3b3;}
+
+.avatar img {
+border-radius: 50%;}
+
+/*цвета*/
+
+.c-brief > header > h1
+{ color: rgba(255, 255, 255, 1);}
+
+header.head .notice
+{ color: rgba(255, 255, 255, 1);}
+
+.c-lists-info .b-stats_bar .stat_names .stat_name a
+{ color: rgba(255, 255, 255, 1);}
+
+.b-stats_bar a.title
+{ color: rgba(255, 255, 255, 1);}
+
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility a, .p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility span.link-replacement
+{ color: rgba(255, 255, 255, 0.5);}
+
+.p-profiles .profile-head .c-info .c-additionals b
+{ color: rgba(255, 255, 255, 1);}
+
+.p-profiles .profile-head .c-info .c-additionals div a
+{ color: rgba(255, 255, 255, 0.5);}
+
+.headline>a, .midheadline>a, .subheadline>a
+{ color: rgba(255, 255, 255, 1);}
+
+.headline, .midheadline, .subheadline {
+background: rgba(40, 40, 40, 0.5);
+color: rgba(255, 255, 255, 0.8);}
+
+.p-user_rates-index .list-groups .summary.lines{
+background: rgba(48, 48, 48, 0.5);
+color: rgba(255, 255, 255, 0.8);}
+
+.b-shiki_editor .body .editor textarea {
+background: #000000;}
+
+div.body
+{ color: rgba(255, 255, 255, 1);}
+
+.b-comment>.inner header .name-date a.name
+{ color: rgba(255, 255, 255, 1);}
+
+a:-webkit-any-link
+{ color: rgba(255, 255, 255, 1);}
+
+a:-webkit-any-link:hover
+{ color: rgba(255,82,2, 1);}
+
+.b-shiki_editor .body .editor textarea
+{ color: rgba(255, 255, 255, 1);}
+
+.b-entry-info .line .key
+{ color: rgba(255, 255, 255, 1);}
+
+.c-actions .new_review
+{ color: rgba(255, 255, 255, 1);}
+
+.b-db_entry>.c-about .additional-links .key
+{ color: rgba(255, 255, 255, 1);}
+
+.b-db_entry-note .name-container .name:hover
+{ color: rgba(255,82,2, 1);}
+
+.b-db_entry-note .name-container .name
+{ color: rgba(255, 255, 255, 1);}
+
+.p-user_history-index .history-page .history-interval p
+{ color: rgba(255, 255, 255, 1);}
+
+.profile-actions .talk
+{ color: rgba(255, 255, 255, 1);}
+
+.p-user_history-index .history-page .history-interval p a
+{ color: rgba(255, 255, 255, 0.5);}
+
+.p-user_history-index .history-page .history-interval p a:hover
+{ color: rgba(255,82,2, 1);}
+
+.c-lists-info .b-stats_bar .stat_names .stat_name a
+{color: rgba(255, 255, 255, 1);}
+
+.p-profiles .profile-head .c-history .entry .misc {
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+color: #fff !important;
+display: block;
+font-size: 11px;
+line-height: 19px;}
+
+.block {
+color: rgba(255, 255, 255, 1);}
+
+.b-shiki_editor footer .about-bb_codes {
+color: rgba(255, 255, 255, 1);}
+
+.b-shiki_editor footer .about-bb_codes:hover {
+color: rgba(255,82,2, 1);}
+
+.b-db_entry-note .name-container {
+color: rgba(255, 255, 255, 1);}
+
+header.head h1, header.head h2 {
+color: rgba(255, 255, 255, 0.8);}
+
+.p-dashboards-show .cc-news .c-news_topics .b-topic .name-date a{
+color: rgba(255, 255, 255, 0.8);}
+
+.b-options-floated a, .b-options-floated .link {
+color: rgba(255, 255, 255, 0.5);}
+
+.b-options-floated a, .b-options-floated .link:hover
+{ color: rgba(255,82,2, 1);}
+
+.b-user_rate .rate-show .episodes {
+color: rgba(255, 255, 255, 0.5);}
+
+.p-animes-show .c-image .b-user_rate, .p-mangas-show .c-image .b-user_rate, .p-ranobe-show .c-image .b-user_rate {
+color: rgba(255, 255, 255, 0.5);}
+
+.b-db_entry>.c-about .additional-links .line-container>.link, .b-db_entry>.c-about .additional-links .line-container>a{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-db_entry>.c-about .additional-links .line-container>.link, .b-db_entry>.c-about .additional-links .line-container>a:hover {
+color: rgba(255,82,2, 1);}
+
+.b-lang_trigger span{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-lang_trigger span:hover {
+color: rgba(255,82,2, 1);}
+
+.buttons .item-edit{
+color: rgba(255, 255, 255, 0.5);}
+
+.buttons .item-delete{
+color: rgba(255, 255, 255, 0.5);}
+
+.buttons .item-quote{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-height_shortener .expand span{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-height_shortener .expand span:hover
+{ color: rgba(255,82,2, 1);}
+
+.b-catalog_entry .cover .title.two_lined{
+color: rgba(255, 255, 255, 1);}
+
+.b-catalog_entry .cover .title.two_lined:hover {
+color: rgba(255,82,2, 1);}
+
+.b-spoiler label{
+color: rgba(255, 255, 255, 1);}
+
+.b-spoiler label:hover {
+color: rgba(255,82,2, 1);}
+
+.b-rate .stars.score {
+color: rgba(255, 202, 105, 1);}
+
+.b-animes-menu .menu-topics-block a.entry .name{
+color: rgba(255, 255, 255, 1);}
+
+.b-animes-menu .menu-topics-block a.entry .name:hover {
+color: rgba(255,82,2, 1);}
+
+.b-entry-info .line .value {
+color: rgba(255, 255, 255, 0.5);}
+
+.b-entry-info .line .b-tag {
+color: rgba(255, 255, 255, 0.5);}
+
+.b-catalog_entry .cover .title {
+color: rgba(255, 255, 255, 1);}
+
+.b-catalog_entry .cover .misc span {
+color: rgba(255, 255, 255, 0.5);}
+
+.b-options-floated.mobile-desktop a{
+color: rgba(255, 255, 255, 1);}
+
+.b-options-floated .action {
+color: rgba(255, 255, 255, 1);}
+
+.p-profiles header.head .misc {
+color: rgba(255, 255, 255, 1);}
+
+.p-profiles header.head .misc:hover {
+color: rgba(255,82,2, 1);}
+
+header.head h1 a.back, header.head h2 a.back {
+color: rgba(255, 255, 255, 1);}
+
+.p-user_rates-index .stat-categories .category {
+color: rgba(255, 255, 255, 1);}
+
+.p-user_rates-index .stat-categories .category:hover {
+color: rgba(255,82,2, 1);}
+
+.b-block_list li{
+color: rgba(255, 255, 255, 0.5);}
+
+.p-user_rates-index .list-groups .summary .stat-value {
+color: rgba(255, 255, 255, 1);}
+
+.p-user_rates-index .list-groups .summary.posters.list {
+background: rgba(48, 48, 48, 0.5);}
+
+.p-user_rates-index .list-groups .summary.posters.library{
+background: rgba(48, 48, 48, 0.5); color: rgba(255, 255, 255, 1); }
+
+.b-topic>.inner header .name-date a.name {
+color: rgba(255, 255, 255, 1);}
+
+.b-topic>.inner header .name-date a.name:hover {
+color: rgba(255,82,2, 1);}
+
+.b-options-floated a, .b-options-floated .link {
+color: rgba(255, 255, 255, 1);}
+
+button, select {
+color: rgba(48, 48, 48, 0.5);}
+
+.bar.simple .bar.s0 {
+background: #d9d9d9;}
+
+.bar.simple .bar.s1 {
+background: #b3b3b3;}
+
+.bar.simple .bar.s3{
+background: #4d4d4d;}
+
+.bar.simple .bar.s2{
+background: #6b6b6b;}
+
+.bar.horizontal .line .x_label {
+color: rgba(255, 255, 255, 0.5);}
+
+.b-form .cancel {
+color: rgba(255, 255, 255, 0.5);}
+
+.subheadline .misc-link{
+color: rgba(255, 255, 255, 0.5);}
+
+.subheadline .misc-link:hover {
+color: rgba(255,82,2, 1);}
+
+.b-dialog>.inner header .name-date a.name{
+color: rgba(255, 255, 255, 1);}
+
+.b-dialog>.inner header .name-date .time {
+color: rgba(255, 255, 255, 0.5);}
+
+.b-message>.inner header .name-date a.name {
+color: rgba(255, 255, 255, 1);}
+
+.b-catalog_entry-tooltip .inner .line .key {
+color: rgba(255, 255, 255, 1);}
+
+.b-catalog_entry-tooltip .inner .line .value .tag {
+color: rgba(255, 255, 255, 0.5);}
+
+.b-message>.inner header .name-date .time {
+color: rgba(255, 255, 255, 0.5);}
+
+.p-profiles-edit .account .change-password a{
+color: rgba(255, 255, 255, 0.5);}
+
+.p-profiles-edit .misc .profile-action a:not(.b-button), .p-profiles-edit .misc .profile-action .link, .p-profiles-edit .misc .nickname-changes a:not(.b-button), .p-profiles-edit .misc .nickname-changes .link, .p-profiles-edit .list .profile-action a:not(.b-button), .p-profiles-edit .list .profile-action .link, .p-profiles-edit .list .nickname-changes a:not(.b-button), .p-profiles-edit .list .nickname-changes .link{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-js-link{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-table th{
+color: rgba(255, 255, 255, 1);}
+
+.p-dashboards-show .c-content .options .option{
+color: rgba(255, 255, 255, 1);}
+
+.b-forums .forum .link-with-input .link{
+color: rgba(255, 255, 255, 1);}
+
+.b-link_button{
+background: rgba(48, 48, 48, 0.5);}
+
+.b-link_button.dark{
+background: rgba(48, 48, 48, 0.5);}
+
+.b-hot_topics {
+border-bottom: rgba(48, 48, 48, 0.5);
+background: rgba(48, 48, 48, 0.5);}
+
+.b-hot_topics .topic.subject {
+color: rgba(255, 255, 255, 1);}
+
+.p-dashboards .animes .others .note, .p-dashboards .mangas .others .note, .p-dashboards .ranobe .others .note {
+color: rgba(255, 255, 255, 0.5);}
+
+.b-catalog_entry-tooltip .inner .line .value .tag {
+border-bottom: rgba(255, 255, 255, 0.5);}
+
+.p-dashboards .user_list .list-type>.title .switch, .p-dashboards .user_list .history>.title .switch{
+color: rgba(255, 255, 255, 0.5);
+border-bottom: rgba(255, 255, 255, 0.5);}
+
+.p-dashboards .user_list .list-type>.title, .p-dashboards .user_list .history>.title{
+color: rgba(255, 255, 255, 1);}
+
+.p-dashboards-show .c-my_list{
+background: rgba(48,48,48,0.5);
+border: rgba(255,255,255,0.5);}
+
+.p-dashboards .user_list .list-type>.title .link, .p-dashboards .user_list .history>.title .link{
+color: rgba(255, 255, 255, 0.5);
+border-bottom: rgba(255, 255, 255, 0.5);}
+
+.p-dashboards .user_list .list-stat .value{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-animes-menu .total-rates{
+color: rgba(255, 255, 255, 0.5);}
+
+.p-animes_collection-index .pagination .link, .p-mangas_collection-index .pagination .link, .p-recommendations-index .pagination .link, .p-userlist_comparer-show .pagination .link{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-entry-info .line .b-tag{
+border-bottom: rgba(255, 255, 255, 0.5);}
+
+.p-contests-index .contest a{
+color: rgba(255, 255, 255, 1);}
+
+.p-contests .match-day .match-link a{
+color: rgba(255, 255, 255, 1);}
+
+.p-contests .match-day .match-link .c-column.loser a, .p-contests .match-day .match-link .c-column.created a{
+color: rgba(255, 255, 255, 0.2);}
+
+.p-contests .rating .member a{
+color: rgba(255, 255, 255, 1);}
+
+.p-contests .rating .member .position{
+color: rgba(255, 255, 255, 1);}
+
+.b-contest_match .vs .actions .action span{
+color: rgba(255, 255, 255, 1);
+border-bottom: rgba(255, 255, 255, 0.5);}
+
+.b-contest_match .vs .label{
+color: rgba(255, 255, 255, 1);}
+
+.b-comments .comments-loader, .b-comments .comments-hider, .b-comments .comments-expander {
+color: rgba(255, 255, 255, 1);
+background: rgba(48,48,48,0.5);
+border: rgba(255,255,255,0.5);}
+
+.p-topics header h1 a.reload{
+color: rgba(255, 255, 255, 1);
+border-bottom: rgba(255, 255, 255, 0.5);}
+
+.b-collection_search .field input{
+color: rgba(255, 255, 255, 1);
+background: rgba(48,48,48,0.5);}
+
+.b-show_more{
+color: rgba(255, 255, 255, 1);}
+
+.p-topics .l-menu .calendar .entry .misc, .p-topics .l-menu .reviews .entry .misc, .p-topics .l-menu .clubs .entry .misc{
+color: rgba(255, 255, 255, 1);}
+
+.b-comment>.inner header .name-date .time{
+color: rgba(255,255,255,0.5);}
+
+.b-topic>.inner header .name-date .time{
+color: rgba(255,255,255,0.5);}
+
+.b-quote{
+color: rgba(255, 255, 255, 1);
+background: rgba(48,48,48,0.5);}
+
+.b-contest_match .vs .invitation, .b-contest_match .vs .vote-voted, .b-contest_match .vs .vote-abstained, .b-contest_match .vs .thanks, .b-contest_match .vs .hint, .b-contest_match .vs .action{
+color: rgba(255, 255, 255, 1);}
+
+.p-contests .match-day .matches-num{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-options-floated{
+color: rgba(255, 255, 255, 1);}
+
+.b-comments .comments-collapser{
+color: rgba(255, 255, 255, 1);
+border-bottom: rgba(255, 255, 255, 0.5);}
+
+.b-replies{
+color: rgba(255, 255, 255, 0.5);}
+
+.tooltip-inner{
+color: rgba(255, 255, 255, 1);
+background: rgba(48,48,48,0.9);}
+
+.b-catalog_entry-tooltip .inner a.name{
+color: rgba(255, 255, 255, 1);}
+
+.b-catalog_entry-tooltip .inner .rating{
+color: rgba(255, 255, 255, 1);}
+
+.b-rate .text-score{
+color: rgba(255, 255, 255, 1);}
+
+.b-rate .score-notice{
+color: rgba(255, 255, 255, 1);}
+
+.b-club .name{
+color: rgba(255, 255, 255, 1);}
+
+.b-user.named_avatar .name{
+color: rgba(255, 255, 255, 1);}
+
+header.head a.misc, header.head a.edit{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-collection-topic>.inner .status-line .collection-size{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-topic-minified>.inner .status-line .additional .comments{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-collection-topic footer .footer-vote{
+color: rgba(255, 255, 255, 1);
+background: rgba(48,48,48,0.5);}
+
+.b-topic .footer-vote .vote-group .vote{
+color: rgba(255, 255, 255, 0.5);
+border-bottom: rgba(255, 255, 255, 0.5);}
+
+.b-user.detailed .history .line a .event{
+color: rgba(255, 255, 255, 1);}
+
+.b-user.detailed .info .last-online{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-mention s{
+color: rgba(255, 255, 255, 1);}
+
+.b-video_player .cc-player_controls .label{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-video_player .cc-player_controls .episode-num .video-link a{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-video_variant .episode-num, .b-video_variant .video-id{
+color: rgba(255, 255, 255, 1);}
+
+.p-anime_videos-index .c-anime_video_episodes .title, .p-anime_videos-index .c-videos .title{
+color: rgba(255, 255, 255, 1);}
+
+.b-video_variant.active a span, .b-video_variant.active a span:before, .b-video_variant.active a span:after{
+color: rgba(255, 255, 255, 0.5);
+border-bottom: rgba(255, 255, 255, 1);}
+
+.p-anime_videos-index .c-videos .video-variant-switcher{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-video_player .cc-player_controls .show-options .icon{
+color: rgba(255, 255, 255, 1);}
+
+.b-video_player .cc-player_controls .prev .icon{
+color: rgba(255, 255, 255, 1);}
+
+.b-video_player .cc-player_controls .next .icon{
+color: rgba(255, 255, 255, 1);}
+
+.b-video_player .cc-player_controls .increment-user_rate .icon{
+color: rgba(255, 255, 255, 1);}
+
+.b-video_player .cc-player_controls .report .icon{
+color: rgba(255, 255, 255, 1);}
+
+.b-video_player .cc-player_controls .c-control{
+color: rgba(255, 255, 255, 1);}
+
+.b-video_variant .video-author{
+color: rgba(255, 255, 255, 0.5);}
+
+.profile-actions .mail{
+color: rgba(255, 255, 255, 1);}
+
+.profile-actions .settings{
+color: rgba(255, 255, 255, 1);}
+
+.profile-actions .ban{
+color: rgba(255, 255, 255, 1);}
+
+.profile-actions .fav-add{
+color: rgba(255, 255, 255, 1);}
+
+.profile-actions .ignore-add{
+color: rgba(255, 255, 255, 1);}
+
+.profile-actions .fav-remove{
+color: rgba(255, 255, 255, 1);}
+
+.buttons .editor-bold{
+color: rgba(255, 255, 255, 0.5);}
+
+.buttons .editor-italic{
+color: rgba(255, 255, 255, 0.5);}
+
+.buttons .editor-underline{
+color: rgba(255, 255, 255, 0.5);}
+
+.buttons .editor-strike{
+color: rgba(255, 255, 255, 0.5);}
+
+.buttons .editor-link{
+color: rgba(255, 255, 255, 0.5);}
+
+.buttons .editor-image{
+color: rgba(255, 255, 255, 0.5);}
+
+.buttons .editor-quote{
+color: rgba(255, 255, 255, 0.5);}
+
+.buttons .editor-spoiler{
+color: rgba(255, 255, 255, 0.5);}
+
+.buttons .editor-file{
+color: rgba(255, 255, 255, 0.5);}
+
+.buttons .editor-smiley{
+color: rgba(255, 255, 255, 0.5);}
+
+.p-profiles .profile-head .c-brief header h1.aliases:after{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-comment .inner .name-date a.name .normal{
+color: rgba(255, 255, 255, 0.5);}
+
+.x1200 .b-modal>.inner{
+color: rgba(255, 255, 255, 1);
+background: rgba(48,48,48,1);}
+
+.p-profiles-show .about a{
+color: rgba(255, 255, 255, 0.5);}
+
+.buttons .item-reply{
+color: rgba(255, 255, 255, 0.5);}
+
+.buttons .item-moderation{
+color: rgba(255, 255, 255, 0.5);}
+
+.tooltip-inner{
+background: rgba(48, 48, 48, 1);}
+
+.b-catalog_entry-tooltip .inner .rating .text{
+color: rgba(255, 255, 255, 0.5);}
+
+.p-dashboards-show .cc-news .c-news_topics .b-topic {
+border-top-width: 0px;}
+
+.b-entry-info .line a{
+color: rgba(255, 255, 255, 0.5);}
+
+.b-video_player .cc-player_controls .episode-num {
+color: rgba(255, 255, 255, 0.5) !important;}
+
+.b-video_player .cc-player_controls .episode-num input{
+background: rgba(48, 48, 48, 1);
+color: rgba(255, 255, 255, 1); }
+
+.b-video_variant.active a {
+border-bottom: 1px dotted rgba(255,82,2, 1);}
+
+.b-feedback>.hover-activator {
+background: rgba(48, 48, 48, 1);
+}
+.b-feedback>.marker-positioner>.marker-text {
+background-color: rgba(48, 48, 48, 1);
+background-image: linear-gradient(to top, rgba(255,255,255, 0.5) 0%, rgba(48, 48, 48, 1) 100%);}
+
+.b-catalog_entry-tooltip .inner .text .b-prgrph{
+color: rgba(255, 255, 255, 1);}
+
+.p-contests .results a{
+color: rgba(255, 255, 255, 0.5);}
+
+.p-user_rates-index .l-content .order-control{
+color: rgba(255, 255, 255, 1);}
+
+.p-user_rates-index .list-lines tr .name a{
+color: rgba(255, 255, 255, 1);}
+
+.b-to-top .slide:before{
+color: rgba(28, 28, 28, 0.8);}
+
+.c-actions .new_comment{
+color: rgba(255, 255, 255, 1);}
+
+.c-actions .fav-add{
+color: rgba(255, 255, 255, 1);}
+
+.c-actions .edit{
+color: rgba(255, 255, 255, 1);}
+
+/*удаляем текстуру и нижнюю границу меню*/
+.to-top-fix, .l-top_menu {
+background: none;
+border-bottom: none;
+} /*окно станет прозрачным*/
+.l-top_menu .inner {
+background-color: #363636; /*при необходимости подкрашиваем ту часть что совпадает границами с телом сайта*/
+height: 33px; /*обязательно задаём изначальную высоту, так как после удаления границы и текстуры хэдер станет визуально уже*/
+}
+.b-comments-notifier {top: 0px !important;} /*фиксируем синий квадрат уведомлений чтобы не прыгал*/
+
+/* Скрываем родительский контейнер Активностей и Дниметра */
+.p-profiles-show .profile-content .cc-2 > .c-column:first-child {
+display: none;
+}
+
+/* Растягиваем родительский контейнер Избранного, Друзей и Клубов */
+.p-profiles-show .profile-content .cc-2 > .c-column:last-child {
+float: none;
+width: 100%;
+min-height: 192px;
+}
+
+/* Избранное располагаем слева */
+.p-profiles-show .profile-content .cc-2 > .c-column:last-child > .block {
+width: 100%;
+padding-right: 27%;
+}
+
+/* Родительский блок Друзей и клубов – справа */
+.p-profiles-show .profile-content .cc-2 > .c-column:last-child > .cc-2a {
+position: absolute;
+top: 0;
+right: 0;
+width: 23%;
+z-index: 1;
+}
+
+/* Друзья и клубы друг над другом */
+.p-profiles-show .profile-content .cc-2 > .c-column:last-child > .cc-2a > .c-column:first-child,
+.p-profiles-show .profile-content .cc-2 > .c-column:last-child > .cc-2a > .c-column:last-child {
+width: 100%;
+margin: 0;
+}
+
+}

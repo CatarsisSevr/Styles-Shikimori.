@@ -1,0 +1,789 @@
+body {
+background: url(/system/user_images/original/374053/717124.jpg) no-repeat fixed top;
+background-size: cover;
+-webkit-filter: grayscale(0.8);
+}
+@media screen and (max-width: 1180px) {
+body {
+background: red;
+}
+}
+.l-page {
+background-color: #000000e3;
+color: rgb(123, 193, 255);
+}
+img.b-poster {
+   max-width: 80%;
+}
+.item-add {
+color: #77c4fb;
+}
+.c-actions .fav-remove:after {
+color: #8bcdfb;
+}
+.c-actions .new_comment:after {
+color: #8bcdfb;
+}
+.c-actions .edit:after {
+color: #8bcdfb;
+}
+.b-table tr, .b-table td {
+border: 1px solid #687f8f;
+}
+.b-bb_codes-examples .example .title, .b-bb_codes-examples .result .title {
+color: #69a8ff;
+}
+.b-form .cancel {
+color: #1a99f1;
+}
+.b-shiki_editor footer .about-bb_codes {
+color: #1a99f1;
+}
+.b-comment>.inner header .name-date a.name {
+color: #4b93e8;
+}
+.b-entry-info .line .b-tag {
+color: #77c4fb;
+}
+.b-entry-info .line .key {
+color: #69a8ff;
+}
+.b-db_entry>.c-about .additional-links .key {
+color: #69a8ff;
+}
+.b-options-floated .action {
+color: #8bcdfb;
+}
+.b-db_entry>.c-about .additional-links .line-container>.link, .b-db_entry>.c-about .additional-links .line-container>a {
+color: #8bcdfb;
+}
+body[data-locale=ru] .b-feedback>.marker-positioner {
+display: none;
+}
+body[data-locale=ru] .b-feedback>.hover-activator {
+display: none;
+}
+.b-animes-menu .total-rates {
+color: #6496d0;
+}
+.bar.horizontal .line .x_label {
+color: #8bcdfb;
+}
+.b-db_entry-note .name-container .name {
+color: #4b93e8;
+}
+.b-rate .text-score {
+color: #4b93e8;
+}
+.b-rate .score-notice {
+color: #5991d4;
+}
+.b-to-top.active .slide {
+display: none;
+}
+.b-catalog_entry .cover .title {
+color: #51a4de;
+cursor: pointer;
+}
+.b-catalog_entry-tooltip .inner .line .key {
+color: #69a8ff;
+}
+.b-catalog_entry-tooltip .inner .line .value .tag {
+color: #77c4fb;
+}
+.b-comment .inner .name-date a.name .normal {
+color: #3580cc;
+}
+.b-link {
+color: #8bcdfb;
+}
+.b-tag {
+-webkit-transition: none;
+border-bottom: 1px dashed #77c4fb;
+color: #77c4fb;
+}
+.b-table th {
+color: #4b93e8;
+}
+.b-stats_bar .title {
+color: #798fa5;
+}
+.b-stats_bar .stat_names .stat_name a {
+color: #639eda;
+}
+.b-spoiler label {
+color: #1a99f1;
+cursor: pointer;
+}
+.b-prgrph, .b-spoiler_prgrph {
+color: #30acf5f0;
+}
+.b-catalog_entry .cover .misc span {
+color: #36b5ff;
+}
+.b-entry-info .line .value {
+color: #152ecb;
+}
+.b-stats_bar.anime .bar .second {
+background: #656565;
+}
+.b-stats_bar.anime .bar .first {
+background: #264361;
+}
+.b-stats_bar.manga .bar .second {
+background: #656565;
+}
+.b-stats_bar.manga .bar .first {
+background: #264361;
+}
+.b-options-floated a, .b-options-floated .link {
+color: #8bcdfb;
+}
+.b-stats_bar.lifetime .bar .first {
+background: #256ade;
+}
+.b-options-floated.mobile-desktop a {
+color: #639eda;
+}
+.b-lang_trigger span {
+color: #77c4fb;
+}
+.b-entry-info .line .value {
+color: #8bcdfb;
+}
+.b-user_rate .rate-show .note {
+color: #30acf5f0;
+}
+.b-catalog_entry-tooltip .inner a.name {
+color: #51a4de;
+}
+.b-stats_bar a.title {
+color: #65aada;
+}
+.bar {
+border-radius: 10px;
+}
+.b-shiki_editor .body .editor textarea {
+background: #e7eeff;
+border: 1px solid #e7eeff;
+}
+.b-block_list li {
+color: #8bcdfb;
+}
+.b-spoiler .content .inner, .b-spoiler .content .inner-prgrph {
+border-bottom: 1px dashed rgba(123, 193, 255, 0.6);
+}
+.headline, .midheadline, .subheadline {
+border-radius: 10px;
+}
+header.head .notice {
+color: #7ba1e4;
+}
+header.head h1, header.head h2 {
+color: #4b93e8;
+}
+header.head h1 a.back, header.head h2 a.back {
+color: #479dda;
+}
+header.head h1 a.back:before, header.head h2 a.back:before {
+color: #479dda;
+content: '←';
+}
+header.head a.misc, header.head a.edit {
+color: #8bcdfb;
+}
+h3 {
+color: #69a8ff;
+}
+.item-mobile.selected {
+color: #0294ff;
+}
+.buttons .editor-italic {
+color: #77bbf7;
+}
+.buttons .editor-italic {
+color: #77bbf7;
+}
+.buttons .editor-bold {
+color: #77bbf7;
+}
+.buttons .editor-underline {
+color: #77bbf7;
+}
+.buttons .editor-strike {
+color: #77bbf7;
+}
+.buttons .editor-link {
+color: #77bbf7;
+}
+.buttons .editor-image {
+color: #77bbf7;
+}
+.buttons .editor-quote {
+color: #77bbf7;
+}
+.buttons .editor-spoiler {
+color: #77bbf7;
+}
+.buttons .editor-smiley {
+color: #77bbf7;
+}
+.buttons .editor-file {
+color: #77bbf7;
+}
+
+.buttons .item-delete {
+color: #0294ff;
+}
+.headline>a, .midheadline>a, .subheadline>a {
+color: #759fe6;
+}
+.buttons .item-reply {
+color: #0294ff;
+}
+.buttons .item-edit {
+color: #0294ff;
+}
+#submit_style {
+position: fixed;
+bottom: 0;
+right: 0;
+margin: 40px;
+z-index: 1000;
+}
+
+.tooltip-inner {
+width: 380px;
+
+}
+
+.tooltip-inner {
+min-height: 56px;
+padding: 14px 16px;
+border: 0;
+overflow: hidden;
+box-shadow: 0 4px 10px 2px rgba(0, 0, 0, 0.24);
+}
+.p-profiles-favourites .b-catalog_entry-tooltip .inner.offset, .p-profiles-show .b-catalog_entry-tooltip .inner.offset {
+margin-left: 0;
+}
+.p-profiles-favourites .tooltip-details .b-catalog_entry-tooltip > a, .p-profiles-show .tooltip-details .b-catalog_entry-tooltip > a, .p-profiles-show .tooltip-details .b-catalog_entry-tooltip .entry-tooltip_container > a {
+display: none;
+}
+
+.subheadline {
+background: rgba(255, 255, 255, .08);
+color: #759fe6;
+border-left: 0px solid white;
+}
+.p-profiles-show .lifetime .times .time.checked:before {
+color: #585858;
+}
+.p-user_rates-index .list-groups .summary.lines {
+color: #63a9ef;
+}
+.p-userlist_comparer .comparer table .name a {
+color: #51a4de;
+}
+.p-user_rates-index .list-lines tr td .rate-text,
+.p-user_rates-index .l-content .order-control {
+color: #1a99f1;
+}
+.p-user_rates-index .list-lines tr .name a {
+color: #51a4de;
+}
+.p-user_history-index .history-page .history-interval p a {
+color: #69a8ff;
+}
+.p-profiles .profile-head .c-brief header .notice a {
+color: #26a6ff;
+}
+.p-profiles .profile-head .c-history .entry .misc {
+color: #659ac5
+}
+.p-profiles-show .lifetime .times .time.checked {
+color: #78b6f3;
+}
+.p-profiles-show .lifetime .times .time {
+color: #78b6f3;
+}
+.profile-actions .ban {
+color: #3c80af;
+}
+.p-topics header h1 a.reload {
+color: #4b93e8;
+}
+.profile-actions .settings {
+color: #3c80af;
+}
+.profile-actions .fav-add {
+color: #3c80af;
+}
+.profile-actions .mail {
+color: #3c80af;
+}
+.profile-actions .talk {
+color: #3c80af;
+}
+.profile-actions .ignore-add {
+color: #3c80af;
+}
+.p-profiles .profile-head .c-mobile-actions a, .p-profiles .profile-head .c-mobile-actions span {
+color: #3c80af;
+}
+.c-actions .new_comment {
+color: #3c80af;
+}
+.c-actions .fav-remove {
+color: #a8d5f5;
+}
+.c-actions .edit {
+color: #3c80af;
+}
+.c-actions .new_review {
+color: #3c80af;
+}
+.profile-actions .fav-remove {
+color: #3c80af;
+}
+.c-actions .fav-add {
+color: #3c80af;
+}
+.p-profiles-show .lifetime .bar {
+height: 8px;
+line-height: 4px;
+}
+.p-profiles .profile-head .c-history .entry .title {
+color: #51a4de;
+}
+.to-top-fix, .l-top_menu {
+background: none;
+border-bottom: none;
+}
+.l-page {
+margin-top: 5px;
+}
+
+
+
+@media only screen and (min-width: 768px) {
+.p-profiles-show.x1000 .cc-2>.c-column>.block:last-child { margin-left: -100%; }
+.p-profiles-show.x1200 .cc-2>.c-column>.block:last-child { margin-left: -144%; }
+.b-user.avatar img:hover, .b-user.named_avatar img:hover, .b-club .logo:hover, .b-user16:hover img, .b-comment:hover .inner header img, .p-topics .l-menu .clubs .entry:hover img, div.avatar img:hover, .b-clubs-menu .admin .b-user:hover img, .cc-8>.c-column:hover img, .menu:hover .avatar {
+border-radius: 0;
+}
+.b-user.avatar img, .b-user.named_avatar img, .b-club .logo, .b-user16 img, .b-comment .inner header img, .p-topics .l-menu .clubs .entry img, div.avatar img, .menu .avatar {
+border-radius: 50%;
+border-top-left-radius: 50%;
+border-top-right-radius: 50%;
+border-bottom-right-radius: 50%;
+border-bottom-left-radius: 50%;
+transition: all .3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+
+.tooltip-inner {
+background: rgba(72, 75, 78, 0.78);
+}
+.tooltip-inner {
+color: #69a8ff;
+}
+.p-profiles .about.block .b-spoiler label {
+border: none;
+display: inline-block !important;
+font-weight: bold; /* толщина шрифта, можно убрать, если не нужно */
+color: #6b95dc; /* цвет текста спойлера */
+background: rgba(255, 255, 255, .00); /* цвет фона спойлера */
+height: 30px;
+width: 100%;
+font-size: 25pt; /* размер шрифта текста на спойлере */
+padding-top: 3px;
+text-align: center;
+margin-bottom: 5px;
+}
+.p-profiles .about.block .b-spoiler .after:before, .about.block .b-spoiler .before:before {
+content: '';
+}
+.p-profiles .about.block .b-spoiler .before {
+width: 100%;
+height: 50px;
+display: inline-block !important;
+margin-top: -50px;
+}
+.p-user_rates-index .list-lines tr .name a {
+color: #51a4de;
+}
+.p-user_rates-index .list-lines tr td .rate-text {
+color: #30acf5f0;
+}
+.p-profiles-show .profile-content .activity { display: none; }
+}
+.p-profiles .profile-head .c-info .c-additionals {
+display: none;
+}
+.p-profiles-show .profile-content .activity:last-child {
+display: none;
+}
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility a {
+color: #639eda;
+}
+.p-user_rates-index .stat-categories .category {
+color: #77c4fb;
+}
+
+
+
+
+
+
+/* ЦВЕТА ССЫЛОК */
+
+.p-profiles-show a:hover,
+.p-profiles-show .b-comments .comments-collapser:hover,
+.p-profiles-show .b-comments .comments-collapser:active,
+.p-profiles-show .b-height_shortener .expand:hover,
+.p-profiles-show .b-height_shortener .expand:active,
+.p-profiles-show .b-spoiler label:hover,
+.p-profiles-show .b-spoiler .content:hover .before,
+.p-profiles-show .b-spoiler .content:hover .after,
+.p-profiles .profile-head .c-brief header .notice a:hover,
+.p-profiles-show .about a:hover,
+.p-profiles-show .b-stats_bar a.title:hover,
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility a:hover,
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility .text.zero:hover,
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility .text.zero:active,
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility .text.weak:hover,
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility .text.weak:active,
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility .text.moderate:hover,
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility .text.moderate:active,
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility .text.high:hover,
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility .text.high:active,
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility .text.full:hover,
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility .text.full:active,
+.p-profiles .profile-head .c-info .c-additionals div a:hover,
+.p-profiles-show .b-comment>.inner header .name-date a.name:hover,
+.p-profiles-show header.head h1 a.back:hover,
+.p-profiles-show header.head h2 a.back:hover,
+.p-profiles-show .b-catalog_entry .cover .title:hover,
+.p-profiles-show .b-catalog_entry .cover:hover .title,
+.p-profiles-show .b-catalog_entry-tooltip .inner .line .value a:hover,
+.p-profiles-show .b-catalog_entry-tooltip .inner .line .value a:active,
+.p-profiles-show .b-options-floated .selected,
+.p-profiles-show .b-options-floated .selected:hover {
+border: 0;
+color: #5285a9;
+text-decoration: none;
+}
+
+/* ЦВЕТ ВЫКЛЮЧЕННОГО ТЕКСТА */
+.p-profiles-show header.head h1 a.back:before,
+.p-profiles-show header.head h2 a.back:before,
+.p-profiles-show .l-footer .copyright,
+.p-profiles-show .b-catalog_entry-tooltip .inner .additional-images .link .title,
+.p-profiles-show .b-catalog_entry-tooltip .inner .rating,
+.p-profiles-show .b-catalog_entry-tooltip .inner .rating .text {
+color: #5285a9;
+}
+
+
+/* ВВОД ТЕКСТА */
+.p-profiles-show .b-shiki_editor .body .editor .comment_body,
+.p-profiles-show .b-shiki_editor .body .editor .message_body {
+background-color: #5f5f5f6b;
+border: 1px solid #000000;
+border-radius: 0px;
+box-shadow: inset 0 0 10px #202020;
+}
+.p-profiles-show .b-shiki_editor .body .editor textarea {
+resize: none;
+outline: none;
+background-color: transparent;
+border: none;
+width: 100%;
+overflow: hidden;
+color: #BFBFBF;
+}
+.b-options-floated .selected,
+.b-list_switchers .switcher.lines.selected,
+.b-list_switchers .switcher.posters.selected,
+.b-options-floated.mobile-desktop a.selected {
+color: #5285a9;
+}
+
+/* ЦВЕТ ПОДСВЕТКИ */
+.b-stats_bar .stat_names .stat_name a:hover {
+color: #5285a9!important;
+}
+.b-catalog_entry .cover:hover .title {
+color: #5285a9;
+text-decoration: underline;
+}
+.l-footer .links a:hover,
+.b-link:hover,
+.p-user_rates-index .l-content .order-control:hover,
+.p-user_rates-index .list-lines tr .name a:hover,
+.profile-actions .settings:hover,
+.profile-actions .mail:hover,
+.profile-actions .ban:hover,
+.profile-actions .ignore-add:hover,
+.profile-actions .fav-add:hover,
+.profile-actions .talk:hover,
+.p-user_rates-index .stat-categories .category:hover,
+.p-profiles header.head .misc:hover,
+.b-shiki_editor footer .about-bb_codes:hover,
+.b-form .cancel:hover,
+.b-spoiler label:hover,
+.b-options-floated.mobile-desktop a.selected:hover,
+.b-options-floated a:hover,
+.b-options-floated .selected:hover,
+.b-options-floated.mobile-desktop a:hover,
+.b-options-floated .action:hover,
+.b-stats_bar .stat_names .stat_name a:hover
+.b-db_entry-note .name-container .name:hover,
+.b-show_more:hover,
+.headline>a:hover, .midheadline>a:hover, .subheadline>a:hover,
+.b-db_entry>.c-about .additional-links .line-container>.link:hover, .b-db_entry>.c-about .additional-links .line-container>a:hover,
+.b-list_switchers .switcher.lines.selected:hover,
+.b-list_switchers .switcher.posters:hover,
+.b-list_switchers .switcher.lines:hover,
+.c-actions .edit:hover,
+.c-actions .fav-add:hover,
+.c-actions .fav-add:hover,
+.c-actions .new_review:hover {
+color: #5285a9;
+}
+.b-shiki_editor.previewed footer .unpreview:hover,
+.item-mobile:hover,
+.buttons .item-edit:hover,
+.buttons .item-delete:hover,
+.buttons .item-reply:hover,
+.buttons .editor-italic:hover,
+.buttons .editor-italic:hover,
+.buttons .editor-bold:hover,
+.buttons .editor-underline:hover,
+.buttons .editor-strike:hover,
+.buttons .editor-link:hover,
+.buttons .editor-image:hover,
+.buttons .editor-quote:hover,
+.buttons .editor-spoiler:hover,
+.buttons .editor-smiley:hover,
+.buttons .editor-file:hover {
+color: #5285a9;
+}
+header.head h1 a.back:hover {
+color: #5285a9;
+}
+
+
+
+
+
+
+::-webkit-scrollbar {
+width: 12px !important;
+background-color: rgb(109, 118, 124) !important;
+}
+::-webkit-scrollbar-thumb {
+background: #89c8ff !important;
+border-radius: 2px !important;
+}
+::-webkit-scrollbar-track {
+box-shadow: inset 0 0 6px rgba(0,0,0,0.3) !important;
+border-radius: 10px !important;
+}
+
+
+
+.p-profiles-show img[alt*="Blu-rayko"] {
+visibility: hidden;
+}.p-profiles-show .cover[data-tooltip_url*="47541-blu-rayko"] .image-cutter {
+background: url("//kawai.shikimori.org/system/user_images/original/374053/717121.jpg");
+background-size: cover;
+}.p-profiles-favourites img[alt*="Blu-rayko"] {
+visibility: hidden;
+}.p-profiles-favourites .cover[data-tooltip_url*="47541-blu-rayko"] .image-cutter {
+background: url("//kawai.shikimori.org/system/user_images/original/374053/717121.jpg");
+background-size: cover;
+}
+
+.p-profiles-show img[alt*="Kagura"] {
+visibility: hidden;
+}.p-profiles-show .cover[data-tooltip_url*="674-kagura"] .image-cutter {
+background: url("//nyaa.shikimori.org/system/user_images/original/374053/717120.jpg");
+background-size: cover;
+}.p-profiles-favourites img[alt*="Kagura"] {
+visibility: hidden;
+}.p-profiles-favourites .cover[data-tooltip_url*="674-kagura"] .image-cutter {
+background: url("//nyaa.shikimori.org/system/user_images/original/374053/717120.jpg");
+background-size: cover;
+}
+.p-profiles-show img[alt*="Ougi Oshino"] {
+visibility: hidden;
+}.p-profiles-show .cover[data-tooltip_url*="90393-ougi-oshino"] .image-cutter {
+   background: url("//moe.shikimori.org/system/user_images/original/374053/717122.jpg");
+background-size: cover;
+}.p-profiles-favourites img[alt*="Ougi Oshino"] {
+visibility: hidden;
+}.p-profiles-favourites .cover[data-tooltip_url*="90393-ougi-oshino"] .image-cutter {
+   background: url("//moe.shikimori.org/system/user_images/original/374053/717122.jpg");
+background-size: cover;
+}
+.p-profiles-show img[alt*="Saber"] {
+visibility: hidden;
+}.p-profiles-show .cover[data-tooltip_url*="497-saber"] .image-cutter {
+background: url("//dere.shikimori.org/system/user_images/original/374053/717119.jpg");
+background-size: cover;
+}.p-profiles-favourites img[alt*="Saber"] {
+visibility: hidden;
+}.p-profiles-favourites .cover[data-tooltip_url*="497-saber"] .image-cutter {
+background: url("//dere.shikimori.org/system/user_images/original/374053/717119.jpg");
+background-size: cover;
+}
+
+.p-profiles-show img[alt*="Shiki Ryougi"] {
+visibility: hidden;
+}.p-profiles-show .cover[data-tooltip_url*="3105-shiki-ryougi"] .image-cutter {
+background: url("//nyaa.shikimori.org/system/user_images/original/374053/717125.jpg");
+background-size: cover;
+}.p-profiles-favourites img[alt*="Shiki Ryougi"] {
+visibility: hidden;
+}.p-profiles-favourites .cover[data-tooltip_url*="3105-shiki-ryougi"] .image-cutter {
+background: url("//nyaa.shikimori.org/system/user_images/original/374053/717125.jpg");
+background-size: cover;
+}
+
+.p-profiles-show img[alt*="Ouzen"] {
+visibility: hidden;
+}.p-profiles-show .cover[data-tooltip_url*="140106-ouzen"] .image-cutter {
+   background: url("//desu.shikimori.org/system/user_images/original/374053/717123.jpg");
+background-size: cover;
+}.p-profiles-favourites img[alt*="Ouzen"] {
+visibility: hidden;
+}.p-profiles-favourites .cover[data-tooltip_url*="140106-ouzen"] .image-cutter {
+background: url("//desu.shikimori.org/system/user_images/original/374053/717123.jpg");
+background-size: cover;
+}
+
+.p-profiles-show img[alt*="Lancer"] {
+visibility: hidden;
+}.p-profiles-show .cover[data-tooltip_url*="138551-lancer"] .image-cutter {
+background: url("//moe.shikimori.org/system/user_images/original/374053/717117.jpg");
+background-size: cover;
+}.p-profiles-favourites img[alt*="Lancer"] {
+visibility: hidden;
+}.p-profiles-favourites .cover[data-tooltip_url*="138551-lancer"] .image-cutter {
+background: url("//moe.shikimori.org/system/user_images/original/374053/717117.jpg");
+background-size: cover;
+}
+
+
+.p-profiles-show img[alt*="Monster"] {
+visibility: hidden;
+}.p-profiles-show .cover[data-tooltip_url*="1-monster"] .image-cutter {
+background: url("//desu.shikimori.org/system/user_images/original/374053/717113.jpg");
+background-size: cover;
+}.p-profiles-favourites img[alt*="Monster"] {
+visibility: hidden;
+}.p-profiles-favourites .cover[data-tooltip_url*="1-monster"] .image-cutter {
+background: url("//desu.shikimori.org/system/user_images/original/374053/717113.jpg");
+background-size: cover;
+}
+
+.p-profiles-show img[alt*="Ergo Proxy"] {
+visibility: hidden;
+}.p-profiles-show .cover[data-tooltip_url*="z790-ergo-proxy"] .image-cutter {
+background: url("//moe.shikimori.org/system/user_images/original/374053/717112.jpg");
+background-size: cover;
+}.p-profiles-favourites img[alt*="Ergo Proxy"] {
+visibility: hidden;
+}.p-profiles-favourites .cover[data-tooltip_url*="z790-ergo-proxy"] .image-cutter {
+background: url("//moe.shikimori.org/system/user_images/original/374053/717112.jpg");
+background-size: cover;
+}
+
+.p-profiles-show img[alt*="Kara no Kyoukai: The Garden of Sinners"] {
+visibility: hidden;
+}.p-profiles-show .cover[data-tooltip_url*="/2062-kara-no-kyoukai-the-garden-of-sinners"] .image-cutter {
+background: url("//dere.shikimori.org/system/user_images/original/374053/717114.jpg");
+background-size: cover;
+}.p-profiles-favourites img[alt*="Kara no Kyoukai: The Garden of Sinners"] {
+visibility: hidden;
+}.p-profiles-favourites .cover[data-tooltip_url*="/2062-kara-no-kyoukai-the-garden-of-sinners"] .image-cutter {
+background: url("//dere.shikimori.org/system/user_images/original/374053/717114.jpg");
+background-size: cover;
+}
+
+.p-profiles-show img[alt*="Aimer"] {
+visibility: hidden;
+}.p-profiles-show .cover[data-tooltip_url*="12859-aimer"] .image-cutter {
+background: url("//nyaa.shikimori.org/system/user_images/original/374053/717115.jpg");
+background-size: cover;
+}.p-profiles-favourites img[alt*="Aimer"] {
+visibility: hidden;
+}.p-profiles-favourites .cover[data-tooltip_url*="12859-aimer"] .image-cutter {
+background: url("//nyaa.shikimori.org/system/user_images/original/374053/717115.jpg");
+background-size: cover;
+}
+
+.p-profiles-show img[alt*="Susumu Hirasawa"] {
+visibility: hidden;
+}.p-profiles-show .cover[data-tooltip_url*="5750-susumu-hirasawa"] .image-cutter {
+background: url("//kawai.shikimori.org/system/user_images/original/374053/717116.jpg");
+background-size: cover;
+}.p-profiles-favourites img[alt*="Susumu Hirasawa"] {
+visibility: hidden;
+}.p-profiles-favourites .cover[data-tooltip_url*="5750-susumu-hirasawa"] .image-cutter {
+background: url("//kawai.shikimori.org/system/user_images/original/374053/717116.jpg");
+background-size: cover;
+}
+
+
+
+.p-profiles .cover[data-tooltip_url *= 'characters/112157-'] .title:after {
+content: 'Аталанта';
+}.p-profiles .cover[data-tooltip_url *= 'characters/112157-'] .title > span {
+display: none;
+}.b-catalog_entry-tooltip .inner a.name[href *= 'characters/112157-']:after {
+content: 'Аталанта';
+}.b-catalog_entry-tooltip .inner a.name > span {
+display: none;
+}
+
+.p-profiles .cover[data-tooltip_url *= 'characters/138551-'] .title:after {
+content: 'Элизабет Батори';
+}.p-profiles .cover[data-tooltip_url *= 'characters/138551-'] .title > span {
+display: none;
+}.b-catalog_entry-tooltip .inner a.name[href *= 'characters/138551-']:after {
+content: 'Элизабет Батори';
+}.b-catalog_entry-tooltip .inner a.name > span {
+display: none;
+}
+
+.p-profiles .cover[data-tooltip_url *= 'characters/497-'] .title:after {
+content: 'Артурия Пендрагон';
+}.p-profiles .cover[data-tooltip_url *= 'characters/497-'] .title > span {
+display: none;
+}.b-catalog_entry-tooltip .inner a.name[href *= 'characters/497-']:after {
+content: 'Артурия Пендрагон';
+}.b-catalog_entry-tooltip .inner a.name > span {
+display: none;
+}
+.p-profiles .cover[data-tooltip_url *= 'people/5750-'] .title:after {
+content: 'Susumu Hirasawa';
+}.p-profiles .cover[data-tooltip_url *= 'people/5750-'] .title > span {
+display: none;
+}.b-catalog_entry-tooltip .inner a.name[href *= 'people/5750-']:after {
+content: 'Susumu Hirasawa';
+}.b-catalog_entry-tooltip .inner a.name > span {
+display: none;
+}
+
+
+
+
+
+
+@media screen and (max-width: 1180px) {
+body {
+background: url(/system/user_images/original/374053/717124.jpg) no-repeat fixed top !important;
+}
